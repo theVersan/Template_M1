@@ -5,9 +5,15 @@
 
 **_Os trechos em itálico servem apenas como guia para o preenchimento da seção. Por esse motivo, não devem fazer parte da documentação final_**
 
-## Nome do Grupo
+## MetaMakers
 
-#### Nomes dos integrantes do grupo
+#### Arthur Bretas
+#### Calebe Matias
+#### Davi D'avila Versan
+#### Júlia Ishikawa
+#### Lucas Matheus
+#### Rafael Furtado
+#### Sophia Senne
 
 
 
